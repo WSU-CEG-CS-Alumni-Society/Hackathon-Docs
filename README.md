@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Wright State Logo](assets/wright-state-logo.png)
+![Wright State Logo](assets/wright-state-society-logo.png)
 
 **Presented by the Wright State University**  
 **Computer Science and Computer Engineering Alumni Society**
