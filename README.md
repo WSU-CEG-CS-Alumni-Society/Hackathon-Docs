@@ -19,9 +19,8 @@ Whether you're a seasoned developer or just starting your coding journey, the Ma
 
 - **Learn** new technologies and frameworks
 - **Network** with peers, mentors, and industry professionals
-- **Compete** for prizes and recognition
 - **Build** projects that showcase your skills
-- **Have fun** while solving challenging problems
+- **Have fun** while building your portfolio and technical ability
 
 ---
 
@@ -32,12 +31,12 @@ Whether you're a seasoned developer or just starting your coding journey, the Ma
 - **Duration**: 24 hours of intensive development
 - **Team Size**: 2-5 participants per team
 - **Mentorship**: Access to experienced mentors and industry professionals
-- **Resources**: Starter templates, APIs, and development tools provided
-- **Prizes**: Awards for top teams and special categories
+- **Resources**: Starter templates and development tools provided
+- **Prizes**: Accolades, Raffles and University offered prizes
 
 ### Categories
 
-Participants can compete in various tracks including:
+Participants can build in various tracks including but not limited to:
 - Web Development
 - Mobile Applications
 - Data Science & AI
@@ -65,13 +64,12 @@ Participants can compete in various tracks including:
 - All code must be written during the hackathon period
 - Projects must be original work created during the event
 - Open-source libraries and frameworks are permitted
-- Use of pre-existing code or templates must be disclosed
+- Use of pre-existing code or templates must be disclosed (your own library or past project integration)
 
 ### Code of Conduct
 
 - Treat all participants, mentors, and organizers with respect
 - Collaboration and knowledge sharing are encouraged
-- Academic integrity and honesty are mandatory
 - Violations may result in disqualification
 
 ## Questions?
