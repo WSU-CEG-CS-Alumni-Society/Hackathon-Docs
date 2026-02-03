@@ -50,7 +50,7 @@ Participants can build in various tracks including but not limited to:
 ### Eligibility
 
 - Open to all Wright State University students (undergraduate and graduate)
-- Alumni and community members welcome to participate or mentor
+- Alumni welcome to participate or mentor
 - All skill levels encouraged to participate
 
 ### Team Formation
@@ -77,6 +77,7 @@ Participants can build in various tracks including but not limited to:
 For more information about the Make-IT-Wright Hackathon, please contact Logan Krause
 
 logankrause16@gmail.com
+
 BucketBoi in the Discord
 
 **Wright State University**  
