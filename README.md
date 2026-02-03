@@ -55,7 +55,7 @@ Participants can build in various tracks including but not limited to:
 
 ### Team Formation
 
-- Teams must consist of 2-4 members
+- Teams must consist of 2-5 members
 - Teams can be formed before or during the event
 - Solo participation allowed but team collaboration is encouraged
 
