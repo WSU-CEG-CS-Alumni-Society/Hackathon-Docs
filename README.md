@@ -13,7 +13,7 @@
 
 ## About the Hackathon
 
-The **Make-IT-Wright Hackathon** is an exciting competition that brings together students, alumni, and technology enthusiasts to collaborate, innovate, and build creative solutions to real-world problems. Hosted by the Wright State University Computer Science and Computer Engineering Alumni Society, this event celebrates the spirit of innovation and technical excellence.
+The **Make-IT-Wright Hackathon** is an exciting collaborative experience that brings together students, alumni, and technology enthusiasts to collaborate, innovate, and build creative solutions to real-world problems. Hosted by the Wright State University Computer Science and Computer Engineering Alumni Society, this event celebrates the spirit of innovation and technical excellence.
 
 Whether you're a seasoned developer or just starting your coding journey, the Make-IT-Wright Hackathon provides a platform to:
 
